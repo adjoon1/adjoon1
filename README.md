@@ -52,8 +52,7 @@ Java / Spring 기반 백엔드 개발자를 목표로 개발을 공부하고 있
 
 ### User Feature Batch System
 
-TimeBlocks 서비스의 사용자 행동 데이터를 기반으로
-BigQuery → Batch → PostgreSQL로 사용자 Feature를 계산하는 데이터 파이프라인을 구현했습니다.
+서비스의 사용자 행동 데이터를 기반으로 BigQuery → Batch → PostgreSQL로 사용자 Feature를 계산하는 데이터 파이프라인을 구현했습니다.
 
 ### MoNew
 
