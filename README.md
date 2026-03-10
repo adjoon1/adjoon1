@@ -1,21 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:9BE7FF,33:8FD3F4,66:7DB9FF,100:74B9FF&text=MinJoon%20Kim&section=header&fontAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:9BE7FF,33:8FD3F4,66:7DB9FF,100:74B9FF&text=MinJoon%20Kim&desc=Backend%20Engineer&descAlign=50&descAlignY=65&descSize=25&animation=fadeIn)
 
-# MinJoon Kim
-
-### Backend Developer
-
----
 
 ## 👋 About Me
 
 Java / Spring 기반 백엔드 개발자를 목표로 개발을 공부하고 있습니다.
-데이터 흐름을 다루는 시스템과 안정적인 백엔드 구조 설계에 관심이 있습니다.
+데이터 흐름을 다루는 시스템과 안정적인 백엔드 구조 설계를 지향합니다.
 
 * REST API 설계 및 백엔드 서비스 개발
 * Batch Processing / Data Pipeline 경험
 * 안정적인 데이터 처리와 확장 가능한 시스템 구조에 관심
-
----
 
 ## 🛠 Tech Stack
 
@@ -54,7 +47,6 @@ Java / Spring 기반 백엔드 개발자를 목표로 개발을 공부하고 있
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -73,7 +65,6 @@ BigQuery → Batch → PostgreSQL로 사용자 Feature를 계산하는 데이터
 실시간 알림 시스템 구현
 Kafka 기반 이벤트 처리 및 SSE 알림 시스템 개발
 
----
 
 ## 📊 GitHub Stats
 
@@ -81,7 +72,6 @@ Kafka 기반 이벤트 처리 및 SSE 알림 시스템 개발
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adjoon1\&layout=compact\&theme=dark)
 
----
 
 ## 📫 Contact
 
