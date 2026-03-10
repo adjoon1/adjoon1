@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=0:9BE7FF,33:8FD3F4,66:7DB9FF,100:74B9FF&text=MinJoon%20Kim&section=header&fontAlign=50&animation=fadeIn)
+
 # MinJoon Kim
 
 ### Backend Developer
@@ -23,19 +25,34 @@ Java / Spring 기반 백엔드 개발자를 목표로 개발을 공부하고 있
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat\&logo=spring\&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat\&logo=springsecurity\&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat)
 
 ### Language
 
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat\&logo=openjdk\&logoColor=white)
 
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+
+### Messaging
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![SSE](https://img.shields.io/badge/SSE-555555?style=flat)
+
 ### DevOps / Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### Tools
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
